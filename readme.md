@@ -12,6 +12,8 @@
 - <p> run the following command <code> php artisan migrate </code> </p>
 - <p> run the following command <code> php artisan db:seed </code> this will generate some articles , categories and add admin user  </p>
 
+<p> admin user to login with: </p>
+
 <ul>
     <li> admin = <code> admin@blog.com </code> </li>
     <li> password = <code> secret </code> </li>
